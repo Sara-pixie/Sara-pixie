@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on **Seymour Slack Bot**
 
-- 🌱 I’m currently learning **M.E.R.N Stack, Sass**
+- 🌱 I’m currently learning **M.E.R.N Stack & Sass**
+
+- 🤝 I’m looking for help with [Trial Blog](https://github.com/Sara-pixie/trial-blog) - a Full-stack blog using Node.js, MongoDB, Express, mongoose, ejs <br />(I need help with PUT request [Put request branch](https://github.com/Sara-pixie/trial-blog/tree/PUT-request) - see [issue](https://github.com/Sara-pixie/trial-blog/issues/2))
 
 - 📫 How to reach me **paranuk.sara@gmail.com**
 
