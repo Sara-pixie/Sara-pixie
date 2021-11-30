@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sara-pixie" alt="sara-pixie" /></a> </p><hr />
 
-- 🔭 I’m currently working on **Seymour Slack Bot**
+- 🔭 I’m currently working on [**Seymour Slack Bot**](https://github.com/seymouraccessibility/seymourbot)
 
 - 🌱 I’m currently learning **M.E.R.N Stack & Sass**
 
