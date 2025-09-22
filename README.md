@@ -5,11 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sara-pixie" alt="sara-pixie" /></a> </p><hr />
 
-- 🔭 I’m currently working on **improving my skills**
+- 🔭 I’m currently working on **work projects**
 
-- 🌱 I’m currently learning **Angular, Java and SQL**
-
-- 🤝 I’m looking for help with [Trial Blog](https://github.com/Sara-pixie/trial-blog) - a Full-stack blog using Node.js, MongoDB, Express, mongoose, ejs <br />(I need help with PUT request [Put request branch](https://github.com/Sara-pixie/trial-blog/tree/PUT-request) - see [issue](https://github.com/Sara-pixie/trial-blog/issues/2))
+- 🌱 I’m currently deepening my **Angular** knowledge
 
 - 📫 How to reach me **paranuk.sara@gmail.com**
 
